@@ -8,10 +8,7 @@
 
 1. 📥 Завантажте файли проєкту:  
 
-   git clone https://github.com/ТВІЙ_ГІТХАБ/demookoo.git  
-   cd demookoo
-
-	2.	📦 Встановіть бібліотеки:
+2.	📦 Встановіть бібліотеки:
 ```sh
 pip install torch torchvision ultralytics opencv-python gTTS Pillow 
 ```
